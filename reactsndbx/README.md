@@ -6,8 +6,8 @@ gabriwar.xyz
 
 
 ## TODO
-- [Add PT-BR]
-- [Integrate typed]
-- [overall looks]
+- Add PT-BR
+- Integrate typed
+- Overall looks
 
 
