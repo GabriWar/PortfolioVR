@@ -6,10 +6,8 @@ gabriwar.xyz
 
 
 ## TODO
-- [Add PT-BR](#usage)
-- [Integrate typed](#example)
+- [Add PT-BR]
+- [Integrate typed]
+- [overall looks]
 
 
-## Add PT-BR
-
-## Integrate typed
