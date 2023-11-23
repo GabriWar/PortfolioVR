@@ -1,3 +1,15 @@
-# React + Vite
+# AnimaTxt
+Essentially my old portifolio remade with react and vite.
+![GABRIWAR.xyz](https://github.com/GabriWar/PortifolioVR/assets/72227489/5c7b8436-b070-4d1b-a243-d1f5e7a943de)
+gabriwar.xyz
 
-WIP
+
+
+## TODO
+- [Add PT-BR](#usage)
+- [Integrate typed](#example)
+
+
+## Add PT-BR
+
+## Integrate typed
