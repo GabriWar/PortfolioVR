@@ -18,7 +18,7 @@ function Portifolio() {
 		<div className="bg" onMouseMove={handleMouseMove}>
 				<div
 					id="animate"
-					className="name"
+					className="name" href="https://github.com/GabriWar"
 					onMouseOver={() => {
 						animateonmouseover("animate", "Gabriel", "Guerra");
 					}}
