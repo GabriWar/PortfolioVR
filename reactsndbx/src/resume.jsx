@@ -119,7 +119,7 @@ function Resumeapp() {
 						<p>
 							Currently pursuing a degree in Computer ScienceI am dedicated to
 							expanding my knowledge and staying at theforefront of technology.
-							I also speak Portuguese (native), Engish (fluent),
+							I also speak Portuguese (native), English (fluent),
 							German(learning)
 						</p>
 					)}
