@@ -5,7 +5,7 @@ import animateonmouseover from "./AnimaTxt";
 import "./hoveranim.css";
 import generateRandomString from "./randomstring";
 
-function Portifolio() {
+function Portfolio() {
 	const [bg, setBg] = useState("GabriWar".repeat(1000));
 
 	function handleMouseMove(event) {
@@ -19,7 +19,7 @@ function Portifolio() {
 
 	return (
 		<div className="bg" onMouseMove={handleMouseMove}>
-						<div className="hover"></div>
+			<div className="hover"></div>
 
 			<div
 				id="animate"
@@ -36,4 +36,4 @@ function Portifolio() {
 	);
 }
 
-export default Portifolio;
+export default Portfolio;
